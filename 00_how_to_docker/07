@@ -1,0 +1,1 @@
+docker inspect -f '{{.NetworkSettings.IPAddress}}' overlord

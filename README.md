@@ -9,4 +9,4 @@ It consists of three parts:
 
 _At the [wiki-pages](../../wiki) of project you can find detailed explanations for each task._
 
-[`init.en.pdf`](/init.en.pdf) is the task file.
+[`docker.en.pdf`](/docker.en.pdf) is the task file.
